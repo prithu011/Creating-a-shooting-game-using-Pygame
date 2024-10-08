@@ -1,2 +1,2 @@
-# Creating-a-shooting-game-using-Pygame
+# Creating a shooting game using Pygame
 pygame practice
